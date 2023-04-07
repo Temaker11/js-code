@@ -12,4 +12,4 @@ const animals = [
 
 //acessar valores dentro do Array
 console.log(animals[1]) 
-console.log(animals[2].namew)
+console.log(animals[2].name)
